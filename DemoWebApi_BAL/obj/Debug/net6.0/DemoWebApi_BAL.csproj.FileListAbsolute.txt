@@ -1,0 +1,15 @@
+C:\Users\pykht\source\repos\DemoWebAPI\DemoWebApi_BAL\bin\Debug\net6.0\DemoWebApi_BAL.deps.json
+C:\Users\pykht\source\repos\DemoWebAPI\DemoWebApi_BAL\bin\Debug\net6.0\DemoWebApi_BAL.dll
+C:\Users\pykht\source\repos\DemoWebAPI\DemoWebApi_BAL\bin\Debug\net6.0\DemoWebApi_BAL.pdb
+C:\Users\pykht\source\repos\DemoWebAPI\DemoWebApi_BAL\bin\Debug\net6.0\DemoWebApi_DAL.dll
+C:\Users\pykht\source\repos\DemoWebAPI\DemoWebApi_BAL\bin\Debug\net6.0\DemoWebApi_DAL.pdb
+C:\Users\pykht\source\repos\DemoWebAPI\DemoWebApi_BAL\obj\Debug\net6.0\DemoWebApi_BAL.csproj.AssemblyReference.cache
+C:\Users\pykht\source\repos\DemoWebAPI\DemoWebApi_BAL\obj\Debug\net6.0\DemoWebApi_BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pykht\source\repos\DemoWebAPI\DemoWebApi_BAL\obj\Debug\net6.0\DemoWebApi_BAL.AssemblyInfoInputs.cache
+C:\Users\pykht\source\repos\DemoWebAPI\DemoWebApi_BAL\obj\Debug\net6.0\DemoWebApi_BAL.AssemblyInfo.cs
+C:\Users\pykht\source\repos\DemoWebAPI\DemoWebApi_BAL\obj\Debug\net6.0\DemoWebApi_BAL.csproj.CoreCompileInputs.cache
+C:\Users\pykht\source\repos\DemoWebAPI\DemoWebApi_BAL\obj\Debug\net6.0\DemoWebApi_BAL.csproj.CopyComplete
+C:\Users\pykht\source\repos\DemoWebAPI\DemoWebApi_BAL\obj\Debug\net6.0\DemoWebApi_BAL.dll
+C:\Users\pykht\source\repos\DemoWebAPI\DemoWebApi_BAL\obj\Debug\net6.0\refint\DemoWebApi_BAL.dll
+C:\Users\pykht\source\repos\DemoWebAPI\DemoWebApi_BAL\obj\Debug\net6.0\DemoWebApi_BAL.pdb
+C:\Users\pykht\source\repos\DemoWebAPI\DemoWebApi_BAL\obj\Debug\net6.0\ref\DemoWebApi_BAL.dll

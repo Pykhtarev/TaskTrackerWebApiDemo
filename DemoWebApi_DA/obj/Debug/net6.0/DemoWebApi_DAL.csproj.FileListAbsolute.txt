@@ -1,0 +1,14 @@
+C:\Users\pykht\source\repos\DemoWebAPI\DemoWebApi_DA\bin\Debug\net6.0\DemoWebApi_DAL.deps.json
+C:\Users\pykht\source\repos\DemoWebAPI\DemoWebApi_DA\bin\Debug\net6.0\DemoWebApi_DAL.dll
+C:\Users\pykht\source\repos\DemoWebAPI\DemoWebApi_DA\bin\Debug\net6.0\DemoWebApi_DAL.pdb
+C:\Users\pykht\source\repos\DemoWebAPI\DemoWebApi_DA\obj\Debug\net6.0\DemoWebApi_DAL.csproj.AssemblyReference.cache
+C:\Users\pykht\source\repos\DemoWebAPI\DemoWebApi_DA\obj\Debug\net6.0\DemoWebApi_DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pykht\source\repos\DemoWebAPI\DemoWebApi_DA\obj\Debug\net6.0\DemoWebApi_DAL.AssemblyInfoInputs.cache
+C:\Users\pykht\source\repos\DemoWebAPI\DemoWebApi_DA\obj\Debug\net6.0\DemoWebApi_DAL.AssemblyInfo.cs
+C:\Users\pykht\source\repos\DemoWebAPI\DemoWebApi_DA\obj\Debug\net6.0\DemoWebApi_DAL.csproj.CoreCompileInputs.cache
+C:\Users\pykht\source\repos\DemoWebAPI\DemoWebApi_DA\obj\Debug\net6.0\DemoWebApi_DAL.dll
+C:\Users\pykht\source\repos\DemoWebAPI\DemoWebApi_DA\obj\Debug\net6.0\refint\DemoWebApi_DAL.dll
+C:\Users\pykht\source\repos\DemoWebAPI\DemoWebApi_DA\obj\Debug\net6.0\DemoWebApi_DAL.pdb
+C:\Users\pykht\source\repos\DemoWebAPI\DemoWebApi_DA\obj\Debug\net6.0\ref\DemoWebApi_DAL.dll
+C:\Users\pykht\source\repos\DemoWebAPI\DemoWebApi_DA\bin\Debug\net6.0\DemoWebApi_DAL.runtimeconfig.json
+C:\Users\pykht\source\repos\DemoWebAPI\DemoWebApi_DA\obj\Debug\net6.0\DemoWebApi_DAL.genruntimeconfig.cache

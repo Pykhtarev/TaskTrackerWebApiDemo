@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DemoWebApi</name>
+    </assembly>
+    <members>
+        <member name="M:DemoWebApi.Controllers.ProjectsController.GetAllProject(System.Nullable{DemoWebApi_DAL.Model.StatusProject},System.Nullable{DemoWebApi_BAL.Services.ServiceTrackerManager.SortParam},System.Boolean,System.Nullable{System.Int32},System.Nullable{System.Boolean})">
+             <summary>
+            Return list all projects without tasks
+             </summary>
+              <param name="status">Filter by status project where 0 is Not Started, 1 is Active, 2 is Completed</param>
+             <param name="sortParam">Parameters for sorting by Project field where By Id = 0,ByName = 1,By Status = 2,By Priority = 3,By Start Date = 4</param>
+              <param name="isDescending">Flag indicate sort param is descending or not</param>
+              <param name="isGreater">Flag indicate condition param for filter by priority</param>
+              <param name="priorityFilter">Filter by priority</param>
+        </member>
+        <member name="M:DemoWebApi.Controllers.ProjectsController.GetProjectById(System.Int32)">
+            <summary>
+            Return a specific Project with tasks.
+            </summary>
+             <param name="id">Project Id</param>
+        </member>
+        <member name="M:DemoWebApi.Controllers.ProjectsController.CreateProject(DemoWebApi_DAL.Model.EntityProject)">
+            <summary>
+            Create new Project.
+            </summary>
+        </member>
+        <member name="M:DemoWebApi.Controllers.ProjectsController.EditProject(System.Int32,DemoWebApi.Common.ProjectRequestArgs)">
+            <summary>
+            Edit specific Project.
+            </summary>
+             <param name="id">Project Id</param>
+        </member>
+        <member name="M:DemoWebApi.Controllers.ProjectsController.Delete(System.Int32)">
+            <summary>
+            Deletes a specific Project.
+            </summary>
+             <param name="id">Project Id</param>
+        </member>
+        <member name="M:DemoWebApi.Controllers.TasksController.GetAllTask">
+             <summary>
+            Get all tasks without Projects.
+             </summary>
+        </member>
+        <member name="M:DemoWebApi.Controllers.TasksController.GetTaskById(System.Int32)">
+            <summary>
+            Get specific Task with bind Project.
+            </summary>
+             <param name="id">Task Id</param>
+        </member>
+        <member name="M:DemoWebApi.Controllers.TasksController.Delete(System.Int32)">
+            <summary>
+            Deletes a specific Task.
+            </summary>
+            <param name="id">Task Id</param>
+        </member>
+        <member name="M:DemoWebApi.Controllers.TasksController.CreateTask(System.Int32,DemoWebApi.Common.TaskRequestArg)">
+            <summary>
+            Create a new Task.
+            </summary>
+        </member>
+        <member name="M:DemoWebApi.Controllers.TasksController.EditTask(System.Int32,DemoWebApi.Common.TaskRequestArg)">
+            <summary>
+            Edit a specific Task.
+            </summary>
+            <param name="id">Task Id</param>
+        </member>
+        <member name="M:DemoWebApi.Controllers.TasksController.ChangeTaskDir(System.Int32,System.Int32)">
+            <summary>
+            Assign Task to new Project.
+            </summary>
+            <param name="id">Task Id</param>
+            <param name="projectId">Target Project Id</param>
+        </member>
+    </members>
+</doc>

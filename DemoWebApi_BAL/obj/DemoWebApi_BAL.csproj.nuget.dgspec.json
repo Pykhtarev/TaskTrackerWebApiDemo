@@ -1,0 +1,156 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\pykht\\source\\repos\\DemoWebAPI\\DemoWebApi_BAL\\DemoWebApi_BAL.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\pykht\\source\\repos\\DemoWebAPI\\DemoWebApi_BAL\\DemoWebApi_BAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pykht\\source\\repos\\DemoWebAPI\\DemoWebApi_BAL\\DemoWebApi_BAL.csproj",
+        "projectName": "DemoWebApi_BAL",
+        "projectPath": "C:\\Users\\pykht\\source\\repos\\DemoWebAPI\\DemoWebApi_BAL\\DemoWebApi_BAL.csproj",
+        "packagesPath": "C:\\Users\\pykht\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pykht\\source\\repos\\DemoWebAPI\\DemoWebApi_BAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Program\\Visual Studio\\Studio SDK\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\pykht\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\pykht\\source\\repos\\DemoWebAPI\\DemoWebApi_DA\\DemoWebApi_DAL.csproj": {
+                "projectPath": "C:\\Users\\pykht\\source\\repos\\DemoWebAPI\\DemoWebApi_DA\\DemoWebApi_DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\pykht\\source\\repos\\DemoWebAPI\\DemoWebApi_DA\\DemoWebApi_DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pykht\\source\\repos\\DemoWebAPI\\DemoWebApi_DA\\DemoWebApi_DAL.csproj",
+        "projectName": "DemoWebApi_DAL",
+        "projectPath": "C:\\Users\\pykht\\source\\repos\\DemoWebAPI\\DemoWebApi_DA\\DemoWebApi_DAL.csproj",
+        "packagesPath": "C:\\Users\\pykht\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pykht\\source\\repos\\DemoWebAPI\\DemoWebApi_DA\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Program\\Visual Studio\\Studio SDK\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\pykht\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Swashbuckle.AspNetCore.Annotations": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
