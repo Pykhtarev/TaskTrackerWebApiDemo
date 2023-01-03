@@ -21,6 +21,7 @@ Tracker uses:
 
 ### My configuration
 - Windows 11pro
+- Visual Studio community 2022
 - i7-3632QM
 - 16 gb ddr3
 
